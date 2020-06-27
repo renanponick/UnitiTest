@@ -1,0 +1,9 @@
+C:\Users\RenanP\Desktop\testeUnitario\Senac\bin\Debug\netstandard2.0\Senac.deps.json
+C:\Users\RenanP\Desktop\testeUnitario\Senac\bin\Debug\netstandard2.0\Senac.dll
+C:\Users\RenanP\Desktop\testeUnitario\Senac\bin\Debug\netstandard2.0\Senac.pdb
+C:\Users\RenanP\Desktop\testeUnitario\Senac\obj\Debug\netstandard2.0\Senac.csprojAssemblyReference.cache
+C:\Users\RenanP\Desktop\testeUnitario\Senac\obj\Debug\netstandard2.0\Senac.csproj.CoreCompileInputs.cache
+C:\Users\RenanP\Desktop\testeUnitario\Senac\obj\Debug\netstandard2.0\Senac.AssemblyInfoInputs.cache
+C:\Users\RenanP\Desktop\testeUnitario\Senac\obj\Debug\netstandard2.0\Senac.AssemblyInfo.cs
+C:\Users\RenanP\Desktop\testeUnitario\Senac\obj\Debug\netstandard2.0\Senac.dll
+C:\Users\RenanP\Desktop\testeUnitario\Senac\obj\Debug\netstandard2.0\Senac.pdb
